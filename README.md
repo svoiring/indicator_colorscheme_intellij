@@ -1,2 +1,2 @@
 # indicator_colorscheme_intellij
-This intellij color scheme
+This intellij color scheme for java
