@@ -1,15 +1,16 @@
 <scheme name="Indicator" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-15T17:18:05</property>
+    <property name="created">2018-06-20T10:38:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-06-15T17:18:16</property>
+    <property name="modified">2018-06-20T10:38:22</property>
     <property name="originalScheme">Indicator</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="InputMono" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -147,6 +148,7 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b2b2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
